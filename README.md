@@ -5,5 +5,3 @@ I am a developer, attending uni and am just now working my way into blockchain. 
 I remain secret in my day to day life and would prefer to remain this way.
 
 I like the programing languages Java, Scala, Javascript and C++
-
-16FJG2Xsf6GqSMCBCfUa2sh42RyzbJCLGAf88vZqRcQyr
